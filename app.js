@@ -175,9 +175,9 @@ var UIController = (function() {
         },
 
         // removing an item from UI
-        // removeItem: (type, id) => {
+        removeItem: (type, id) => {
 
-        // }
+        },
 
         // displaying the budget in UI
         displayBudget: (obj) => {
